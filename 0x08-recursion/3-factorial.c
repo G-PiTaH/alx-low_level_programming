@@ -11,9 +11,9 @@
  */
 int factorial(int n)
 {
-	if (n == 2)
+	if (n == 1)
 	{
-		return 2;
+		return (1);
 	}
 	else
 	{
