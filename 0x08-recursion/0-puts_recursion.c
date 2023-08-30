@@ -18,6 +18,6 @@ void _puts_recursion(char *s)
 
 		return;
 	}
-	_putchar(*s);//if above condition fails
-	_puts_recursion(s + 1);//recurs for the rest of the string
+	_putchar(*s); //if above condition fails
+	_puts_recursion(s + 1); //recurs for the rest of the string
 }
