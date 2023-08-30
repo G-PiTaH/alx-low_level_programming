@@ -6,7 +6,6 @@
  * sqrt2 - Evaluation to n
  * @x: integer
  * @y: integer
- * @z: iteration number
  *
  * Return: -1 error 1 succes.
  */
